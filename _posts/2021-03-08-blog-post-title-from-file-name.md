@@ -1,4 +1,4 @@
-## The beauty of programming
+## The beauty of programming 
 
 
 
@@ -10,7 +10,5 @@
 
 # There are many other languages you can use, but the style has to be loaded first
 
-ForEach ($thing in $things) {
-    Write-Output "It highlights it using the GitHub style"
-}
+
 ```
