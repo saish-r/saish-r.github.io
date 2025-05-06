@@ -1,5 +1,1 @@
-Here you can say lots of fun things about your site.
-
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+Hello everyone, I am Saish Raj Onta and just like you, I am an explorer trying to understand this odd, exciting and foundational world of computers one step at a time!
